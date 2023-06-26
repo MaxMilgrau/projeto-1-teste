@@ -1,3 +1,7 @@
 
 Ola, meu nome é Gabriel Augusto
+<<<<<<< HEAD
 Ola eu sou uma nova linha
+=======
+Ola eu sou uma nova linha
+>>>>>>> staging
